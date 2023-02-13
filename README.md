@@ -1,2 +1,2 @@
 # hello-world
-Learning to Progrem / Code
+Learning to Program / Code
